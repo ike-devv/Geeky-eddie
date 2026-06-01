@@ -1,7 +1,7 @@
 [![MasterHead](https://www.pramukhdigital.com/wp-content/uploads/2018/07/New-PNC-Animated-Banners.gif)](https://github.com/geeky-eddie)
 
 
-<h1 align="center">Hi 👋, I'm Ike</h1>
+<h1 align="center">Hi 👋, I'm Eddie</h1>
 <h3 align="center">A passionate frontend developer based in the UK</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=geeky-eddie" alt="geeky-eddie" /></a> </p>
